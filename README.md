@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @tryncalibur
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Trystan Nguyen
+Game Development | Game Engineer
 
-<!---
-tryncalibur/tryncalibur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Resume: 
+https://drive.google.com/file/d/1aMYcSsL0MgC4F-YesG8TAqn0wbzHvfTR/view?usp=sharing
+
+LinkedIn:
+https://www.linkedin.com/in/trystann/
+
+Projects:
+Vulpecula: Gameplay programmer | VFX artist
+https://teamlamp.itch.io/vulpecula
+
