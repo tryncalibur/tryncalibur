@@ -1,19 +1,11 @@
-Trystan Nguyen
-
-Game Development | Game Engineer
+Resume: https://drive.google.com/file/d/1aMYcSsL0MgC4F-YesG8TAqn0wbzHvfTR/view?usp=sharing
 
 
-Resume: 
+LinkedIn: https://www.linkedin.com/in/trystann/
 
-https://drive.google.com/file/d/1aMYcSsL0MgC4F-YesG8TAqn0wbzHvfTR/view?usp=sharing
+Vulpecula: https://teamlamp.itch.io/vulpecula
 
-
-LinkedIn:
-
-https://www.linkedin.com/in/trystann/
+Gameplay programmer | VFX artist
 
 
-Vulpecula: Gameplay programmer | VFX artist
-
-https://teamlamp.itch.io/vulpecula
 
